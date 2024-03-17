@@ -1,0 +1,7 @@
+verilog isim_temp "REGS.v"
+verilog isim_temp "PC.v"
+verilog isim_temp "Inst_Decoder.v"
+verilog isim_temp "ALU.v"
+verilog isim_temp "CPU.v"
+verilog isim_temp "test.v"
+verilog isim_temp "E:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
